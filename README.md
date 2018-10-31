@@ -6,7 +6,7 @@
  
  - Make sure that you have java SDK(1.6 or high) and maven(3.2 or high) install and configured on your computer
  
- - open invoice-project-master on and type cmd on your exploreE
+ - open invoice-project-master folder and type cmd on your explorer
  
  - run this command :- mvn dependency:tree
  
